@@ -1,3 +1,4 @@
+![Entropy](images/entropy%20(1).PNG)
 # About Me
 
 Hi, I'm **August**, an open-source machine learning engineer focused on **reinforcement learning** with large language models, especially for **agents like code-generating agents**.
