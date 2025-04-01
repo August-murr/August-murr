@@ -18,4 +18,4 @@ I'm **open to work**! If you have a role or opportunity that aligns with my work
 
 If you appreciate my work and would like to support me, please consider making a donation:
 
-[Donate](DONATE.md)
+[Donate](Donate.md)
