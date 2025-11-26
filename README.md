@@ -1,9 +1,13 @@
 ![Entropy](images/entropy%20(1).PNG)
 # About Me
 
-Hi, I'm **August**, an open-source machine learning engineer focused on **reinforcement learning** with large language models, especially for **agents like code-generating agents**.
+## Hi, I'm August 👋
 
-I believe **RL** is the best way towards an **"Autonomous AI researcher"** and **AGI**, which will help guide us through the challenges that will arise towards the path of creating **superintelligence**. This includes everything from **scalability, superalignment, democratization**, and beyond.
+I'm an open-source ML researcher focused on compute-scalable methods inspired by the *bitter lesson*.  
+I work on flexible, minimally hand-designed systems that lean on scaling, search, and emergent behavior, keeping human input primarily for safety and alignment.
+
+I also spend time thinking about the socio-technical challenges ahead and how we can build aligned, inclusive superintelligences that benefit everyone.
+
 
 ---
 ## Open to Work
