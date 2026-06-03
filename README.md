@@ -1,25 +1,18 @@
 ![Entropy](images/entropy%20(1).PNG)
-# About Me
-
-## Hi, I'm August 👋
-
-I'm an open-source ML researcher focused on compute-scalable methods inspired by the *bitter lesson*.  
-I work on flexible, minimally hand-designed systems that lean on scaling, search, and emergent behavior, keeping human input primarily for safety and alignment.
-
-I also spend time thinking about the socio-technical challenges ahead and how we can build aligned, inclusive superintelligences that benefit everyone.
 
 
----
-## Open to Work
+**Hi, I'm August Murr**
 
-I'm **open to work**! If you have a role or opportunity that aligns with my work, feel free to reach out:  
+I'm an independent ML researcher and engineer focused on the safety and alignment of increasingly powerful AI systems.
 
-📩 **Email:** [Gmail](moh.murr@gmail.com)  
-🔗 **LinkedIn:** [My LinkedIn](http://www.linkedin.com/in/muhammed-moharrami)  
+My work is grounded in core ML engineering, compute-scalable methods, post-training, and reinforcement learning. I believe the insights of the bitter lesson don't stop at capabilities:
 
----
-## Support My Work
+**if intelligence scales with compute, wisdom must too.**
 
-If you appreciate my work and would like to support me, please consider making a donation:
+We cannot afford for safety and alignment to be an afterthought, they need to be as scalable, as compute-driven, and as relentlessly improved as the systems they are meant to keep in check.
 
-[Donate](Donate.md)
+I started out drawn to emergent behavior and self-improving systems. The more I built, the more I understood that unconstrained emergence is not a magic pill — it's a Pandora's box. That realization shifted my focus from building toward powerful systems to understanding how to make them safe as they scale.
+
+My interests now span alignment, interpretability, AI governance, policy, and the economic reforms that advanced AI will demand. But I approach all of it from an engineering foundation first.
+
+**I want to contribute to navigating the chaos ahead.**
